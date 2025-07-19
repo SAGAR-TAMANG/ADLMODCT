@@ -1,0 +1,6 @@
+model_name,test_accuracy,test_loss,macro_avg_f1-score,weighted_avg_f1-score
+resnet50_baseline,0.5208,1.2538,0.2653,0.4315
+vgg16_baseline,0.6371,1.0023,0.3926,0.5596
+inceptionv3_baseline,0.8116,0.5956,0.7415,0.8055
+mobilenetv2_baseline,0.8615,0.4199,0.8167,0.8597
+efficientnetb0_baseline,0.4017,1.4344,0.1146,0.2302
