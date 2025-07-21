@@ -4,3 +4,5 @@ vgg16_baseline,0.6371,1.0023,0.3926,0.5596
 inceptionv3_baseline,0.8116,0.5956,0.7415,0.8055
 mobilenetv2_baseline,0.8615,0.4199,0.8167,0.8597
 efficientnetb0_baseline,0.4017,1.4344,0.1146,0.2302
+mobilenetv2_finetuned,0.8947,0.4113,0.8614,0.894
+mobilenetv2_finetuned_weighted,0.8947,0.4452,0.8514,0.8942
