@@ -2,3 +2,4 @@
 *.zip
 venv
 best_model.keras
+processed_data/*
